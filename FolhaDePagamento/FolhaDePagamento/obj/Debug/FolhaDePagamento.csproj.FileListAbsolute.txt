@@ -1,0 +1,6 @@
+C:\Users\diogo\Desktop\FolhaDePagamento\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe.config
+C:\Users\diogo\Desktop\FolhaDePagamento\FolhaDePagamento\bin\Debug\FolhaDePagamento.exe
+C:\Users\diogo\Desktop\FolhaDePagamento\FolhaDePagamento\bin\Debug\FolhaDePagamento.pdb
+C:\Users\diogo\Desktop\FolhaDePagamento\FolhaDePagamento\obj\Debug\FolhaDePagamento.csprojResolveAssemblyReference.cache
+C:\Users\diogo\Desktop\FolhaDePagamento\FolhaDePagamento\obj\Debug\FolhaDePagamento.exe
+C:\Users\diogo\Desktop\FolhaDePagamento\FolhaDePagamento\obj\Debug\FolhaDePagamento.pdb
